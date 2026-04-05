@@ -1,0 +1,635 @@
+{
+  "total_images": 42,
+  "images": [
+    {
+      "filepath": "data/source_images/102_0446.JPG",
+      "filename": "102_0446.JPG",
+      "avg_color_rgb": [
+        35,
+        14,
+        12
+      ],
+      "avg_color_hex": "#230e0c",
+      "dimensions": {
+        "width": 4608,
+        "height": 3456
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/102_1096.jpg",
+      "filename": "102_1096.jpg",
+      "avg_color_rgb": [
+        105,
+        114,
+        84
+      ],
+      "avg_color_hex": "#697254",
+      "dimensions": {
+        "width": 1280,
+        "height": 960
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/39C3831C-41D8-4043-93AD-C41BE7A526EA.jpg",
+      "filename": "39C3831C-41D8-4043-93AD-C41BE7A526EA.jpg",
+      "avg_color_rgb": [
+        166,
+        119,
+        101
+      ],
+      "avg_color_hex": "#a67765",
+      "dimensions": {
+        "width": 1440,
+        "height": 1439
+      },
+      "aspect_ratio": 1.001
+    },
+    {
+      "filepath": "data/source_images/4d9674db-e4a9-42b1-8936-fa6e0ec9a603.jpg",
+      "filename": "4d9674db-e4a9-42b1-8936-fa6e0ec9a603.jpg",
+      "avg_color_rgb": [
+        91,
+        129,
+        129
+      ],
+      "avg_color_hex": "#5b8181",
+      "dimensions": {
+        "width": 1600,
+        "height": 1200
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_0017.jpeg",
+      "filename": "IMG_0017.jpeg",
+      "avg_color_rgb": [
+        93,
+        114,
+        135
+      ],
+      "avg_color_hex": "#5d7287",
+      "dimensions": {
+        "width": 5712,
+        "height": 4284
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_0065.JPG",
+      "filename": "IMG_0065.JPG",
+      "avg_color_rgb": [
+        112,
+        107,
+        106
+      ],
+      "avg_color_hex": "#706b6a",
+      "dimensions": {
+        "width": 2048,
+        "height": 1365
+      },
+      "aspect_ratio": 1.5
+    },
+    {
+      "filepath": "data/source_images/IMG_0101.jpeg",
+      "filename": "IMG_0101.jpeg",
+      "avg_color_rgb": [
+        129,
+        73,
+        71
+      ],
+      "avg_color_hex": "#814947",
+      "dimensions": {
+        "width": 3088,
+        "height": 2316
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_0520.jpeg",
+      "filename": "IMG_0520.jpeg",
+      "avg_color_rgb": [
+        143,
+        121,
+        101
+      ],
+      "avg_color_hex": "#8f7965",
+      "dimensions": {
+        "width": 5712,
+        "height": 4284
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_0533.jpeg",
+      "filename": "IMG_0533.jpeg",
+      "avg_color_rgb": [
+        176,
+        171,
+        162
+      ],
+      "avg_color_hex": "#b0aba2",
+      "dimensions": {
+        "width": 5712,
+        "height": 4284
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_0556.jpeg",
+      "filename": "IMG_0556.jpeg",
+      "avg_color_rgb": [
+        139,
+        114,
+        100
+      ],
+      "avg_color_hex": "#8b7264",
+      "dimensions": {
+        "width": 5712,
+        "height": 4284
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_0571.jpeg",
+      "filename": "IMG_0571.jpeg",
+      "avg_color_rgb": [
+        68,
+        69,
+        138
+      ],
+      "avg_color_hex": "#44458a",
+      "dimensions": {
+        "width": 4284,
+        "height": 5712
+      },
+      "aspect_ratio": 0.75
+    },
+    {
+      "filepath": "data/source_images/IMG_0754.jpeg",
+      "filename": "IMG_0754.jpeg",
+      "avg_color_rgb": [
+        158,
+        126,
+        110
+      ],
+      "avg_color_hex": "#9e7e6e",
+      "dimensions": {
+        "width": 3088,
+        "height": 2316
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_0836.jpeg",
+      "filename": "IMG_0836.jpeg",
+      "avg_color_rgb": [
+        27,
+        24,
+        18
+      ],
+      "avg_color_hex": "#1b1812",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_0992.jpeg",
+      "filename": "IMG_0992.jpeg",
+      "avg_color_rgb": [
+        123,
+        115,
+        114
+      ],
+      "avg_color_hex": "#7b7372",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_1118.JPG",
+      "filename": "IMG_1118.JPG",
+      "avg_color_rgb": [
+        141,
+        113,
+        101
+      ],
+      "avg_color_hex": "#8d7165",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_1151.jpeg",
+      "filename": "IMG_1151.jpeg",
+      "avg_color_rgb": [
+        156,
+        136,
+        94
+      ],
+      "avg_color_hex": "#9c885e",
+      "dimensions": {
+        "width": 3088,
+        "height": 2316
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_1208.jpeg",
+      "filename": "IMG_1208.jpeg",
+      "avg_color_rgb": [
+        119,
+        129,
+        137
+      ],
+      "avg_color_hex": "#778189",
+      "dimensions": {
+        "width": 3088,
+        "height": 2316
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_1383.jpeg",
+      "filename": "IMG_1383.jpeg",
+      "avg_color_rgb": [
+        138,
+        112,
+        69
+      ],
+      "avg_color_hex": "#8a7045",
+      "dimensions": {
+        "width": 3088,
+        "height": 2316
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_1445.PNG",
+      "filename": "IMG_1445.PNG",
+      "avg_color_rgb": [
+        113,
+        124,
+        96
+      ],
+      "avg_color_hex": "#717c60",
+      "dimensions": {
+        "width": 2250,
+        "height": 3000
+      },
+      "aspect_ratio": 0.75
+    },
+    {
+      "filepath": "data/source_images/IMG_1846.jpeg",
+      "filename": "IMG_1846.jpeg",
+      "avg_color_rgb": [
+        122,
+        122,
+        74
+      ],
+      "avg_color_hex": "#7a7a4a",
+      "dimensions": {
+        "width": 5712,
+        "height": 4284
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_1945.jpeg",
+      "filename": "IMG_1945.jpeg",
+      "avg_color_rgb": [
+        74,
+        7,
+        80
+      ],
+      "avg_color_hex": "#4a0750",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_2765.jpg",
+      "filename": "IMG_2765.jpg",
+      "avg_color_rgb": [
+        149,
+        144,
+        132
+      ],
+      "avg_color_hex": "#959084",
+      "dimensions": {
+        "width": 1024,
+        "height": 768
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_3746.jpeg",
+      "filename": "IMG_3746.jpeg",
+      "avg_color_rgb": [
+        98,
+        111,
+        151
+      ],
+      "avg_color_hex": "#626f97",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_4090.jpeg",
+      "filename": "IMG_4090.jpeg",
+      "avg_color_rgb": [
+        164,
+        150,
+        137
+      ],
+      "avg_color_hex": "#a49689",
+      "dimensions": {
+        "width": 480,
+        "height": 640
+      },
+      "aspect_ratio": 0.75
+    },
+    {
+      "filepath": "data/source_images/IMG_5021.jpeg",
+      "filename": "IMG_5021.jpeg",
+      "avg_color_rgb": [
+        90,
+        83,
+        68
+      ],
+      "avg_color_hex": "#5a5344",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_5061.jpeg",
+      "filename": "IMG_5061.jpeg",
+      "avg_color_rgb": [
+        84,
+        82,
+        144
+      ],
+      "avg_color_hex": "#545290",
+      "dimensions": {
+        "width": 5712,
+        "height": 4284
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_5228.jpeg",
+      "filename": "IMG_5228.jpeg",
+      "avg_color_rgb": [
+        121,
+        150,
+        165
+      ],
+      "avg_color_hex": "#7996a5",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_5520.jpeg",
+      "filename": "IMG_5520.jpeg",
+      "avg_color_rgb": [
+        105,
+        91,
+        64
+      ],
+      "avg_color_hex": "#695b40",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_5891.jpeg",
+      "filename": "IMG_5891.jpeg",
+      "avg_color_rgb": [
+        142,
+        111,
+        91
+      ],
+      "avg_color_hex": "#8e6f5b",
+      "dimensions": {
+        "width": 1170,
+        "height": 1594
+      },
+      "aspect_ratio": 0.734
+    },
+    {
+      "filepath": "data/source_images/IMG_5948.JPG",
+      "filename": "IMG_5948.JPG",
+      "avg_color_rgb": [
+        155,
+        179,
+        205
+      ],
+      "avg_color_hex": "#9bb3cd",
+      "dimensions": {
+        "width": 1280,
+        "height": 852
+      },
+      "aspect_ratio": 1.502
+    },
+    {
+      "filepath": "data/source_images/IMG_6227.jpeg",
+      "filename": "IMG_6227.jpeg",
+      "avg_color_rgb": [
+        112,
+        136,
+        150
+      ],
+      "avg_color_hex": "#708896",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_7177.jpg",
+      "filename": "IMG_7177.jpg",
+      "avg_color_rgb": [
+        126,
+        113,
+        99
+      ],
+      "avg_color_hex": "#7e7163",
+      "dimensions": {
+        "width": 360,
+        "height": 480
+      },
+      "aspect_ratio": 0.75
+    },
+    {
+      "filepath": "data/source_images/IMG_7553.jpeg",
+      "filename": "IMG_7553.jpeg",
+      "avg_color_rgb": [
+        147,
+        124,
+        106
+      ],
+      "avg_color_hex": "#937c6a",
+      "dimensions": {
+        "width": 1170,
+        "height": 1354
+      },
+      "aspect_ratio": 0.864
+    },
+    {
+      "filepath": "data/source_images/IMG_7754.jpeg",
+      "filename": "IMG_7754.jpeg",
+      "avg_color_rgb": [
+        110,
+        92,
+        113
+      ],
+      "avg_color_hex": "#6e5c71",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_7805.jpeg",
+      "filename": "IMG_7805.jpeg",
+      "avg_color_rgb": [
+        108,
+        121,
+        128
+      ],
+      "avg_color_hex": "#6c7980",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_8025.jpeg",
+      "filename": "IMG_8025.jpeg",
+      "avg_color_rgb": [
+        168,
+        158,
+        143
+      ],
+      "avg_color_hex": "#a89e8f",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_8239_Original.JPG",
+      "filename": "IMG_8239_Original.JPG",
+      "avg_color_rgb": [
+        16,
+        80,
+        85
+      ],
+      "avg_color_hex": "#105055",
+      "dimensions": {
+        "width": 627,
+        "height": 836
+      },
+      "aspect_ratio": 0.75
+    },
+    {
+      "filepath": "data/source_images/IMG_9043.jpeg",
+      "filename": "IMG_9043.jpeg",
+      "avg_color_rgb": [
+        115,
+        24,
+        79
+      ],
+      "avg_color_hex": "#73184f",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_9410.jpeg",
+      "filename": "IMG_9410.jpeg",
+      "avg_color_rgb": [
+        66,
+        16,
+        152
+      ],
+      "avg_color_hex": "#421098",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_9538.JPG",
+      "filename": "IMG_9538.JPG",
+      "avg_color_rgb": [
+        20,
+        13,
+        118
+      ],
+      "avg_color_hex": "#140d76",
+      "dimensions": {
+        "width": 1242,
+        "height": 2208
+      },
+      "aspect_ratio": 0.562
+    },
+    {
+      "filepath": "data/source_images/IMG_9978.jpeg",
+      "filename": "IMG_9978.jpeg",
+      "avg_color_rgb": [
+        148,
+        142,
+        122
+      ],
+      "avg_color_hex": "#948e7a",
+      "dimensions": {
+        "width": 5712,
+        "height": 4284
+      },
+      "aspect_ratio": 1.333
+    },
+    {
+      "filepath": "data/source_images/IMG_9998.jpeg",
+      "filename": "IMG_9998.jpeg",
+      "avg_color_rgb": [
+        113,
+        127,
+        98
+      ],
+      "avg_color_hex": "#717f62",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "aspect_ratio": 1.333
+    }
+  ]
+}
